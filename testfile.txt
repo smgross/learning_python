@@ -1,0 +1,10 @@
+#This is a file
+Header1	Header2	Header3	Header4
+line	says	what	goes
+here	is	random	but
+I	think	I	should
+write	some	integers	5
+4	3	2	1
+
+1	2	3	4
+
